@@ -7,8 +7,8 @@ class Api::V1::RecipesController < ApplicationController
   end
 
   def create
-    recipe = Recipe.create!(recipe_params)
-    if recipe
+    recipe = Recipe.new(recipe_params)
+    if recipe.save
       render json: recipe
     else
       render json recipe.errors
@@ -27,7 +27,7 @@ class Api::V1::RecipesController < ApplicationController
   private
 
   def recipe_params
-    params.permit(:name, :image, :ingredients, :instruction)
+    params.require(:recipe).permit(:name, :image, :ingredients, :instruction)
   end
 
   def set_recipe

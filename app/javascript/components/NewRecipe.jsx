@@ -30,7 +30,7 @@ export default function NewRecipe() {
       ingredients,
       instruction: stripHtmlEntities(instruction),
     };
-
+    console.log(body);
     const token = document.querySelector('meta[name="csrf-token"]').content;
     fetch(url, {
       method: "POST",
