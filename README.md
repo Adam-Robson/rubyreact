@@ -24,8 +24,4 @@ Things you may want to cover:
 * ...
 # rails-react
 
-This application was created by following [this](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-v7-project-with-a-react-frontend-on-ubuntu-20-04) tutorial.
-
-It is complete with CRUD functionality and the tutorial was one of the clearest explanations I have come across!
-
-Happy coding!
+This application is complete with CRUD functionality and was created by following [this](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-v7-project-with-a-react-frontend-on-ubuntu-20-04) tutorial.
