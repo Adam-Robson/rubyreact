@@ -356,7 +356,7 @@ __metadata:
     "@popperjs/core": "npm:^2.11.8"
     autoprefixer: "npm:^10.4.15"
     bootstrap: "npm:^5.3.1"
-    bootstrap-icons: "npm:^1.10.5"
+    bootstrap-icons: "npm:^1.11.3"
     esbuild: "npm:^0.19.2"
     nodemon: "npm:^3.0.1"
     pg: "npm:^8.11.3"
@@ -401,10 +401,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bootstrap-icons@npm:^1.10.5":
-  version: 1.10.5
-  resolution: "bootstrap-icons@npm:1.10.5"
-  checksum: 10c0/adf73f66ac8b55fa6c7bb78735cbcf1735921a0a37ae729255d2458118af234820b64311eaa72b40db7968941cd7aa1704bae92412dd66fae5decc9525ab70a4
+"bootstrap-icons@npm:^1.11.3":
+  version: 1.11.3
+  resolution: "bootstrap-icons@npm:1.11.3"
+  checksum: 10c0/37eefd418c6bbbb304bdff0f2ed527f82c3c6f331d3e3a7c4aa8bbdbaf7118bb86725b024f85e7d738c613d48c7353cd81c09e58e9d8d34c5633960fdec8410b
   languageName: node
   linkType: hard
 
