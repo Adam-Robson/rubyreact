@@ -355,7 +355,7 @@ __metadata:
     "@hotwired/turbo-rails": "npm:^7.3.0"
     "@popperjs/core": "npm:^2.11.8"
     autoprefixer: "npm:^10.4.15"
-    bootstrap: "npm:^5.3.1"
+    bootstrap: "npm:^5.3.3"
     bootstrap-icons: "npm:^1.10.5"
     esbuild: "npm:^0.19.2"
     nodemon: "npm:^3.0.1"
@@ -408,12 +408,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bootstrap@npm:^5.3.1":
-  version: 5.3.1
-  resolution: "bootstrap@npm:5.3.1"
+"bootstrap@npm:^5.3.3":
+  version: 5.3.3
+  resolution: "bootstrap@npm:5.3.3"
   peerDependencies:
     "@popperjs/core": ^2.11.8
-  checksum: 10c0/e39e98bed1aa69e4eeb983252951cfb508fdde37b2f5941a7af2029f2ed43d77e53749464eb1e649e5fb1169eb4e2f68a7753dec3f32bfed5e2204478b348e14
+  checksum: 10c0/bb68ca7b763977b9cce40cb5b8c676ae19a716d2f5d15009fa7bdbcec9dea426968e3cb748fbed7592fbf10edd7c749aea841c2920996a7c1aa5e0a6e2d4c2ad
   languageName: node
   linkType: hard
 

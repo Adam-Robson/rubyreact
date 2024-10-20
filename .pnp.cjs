@@ -30,7 +30,7 @@ const RAW_RUNTIME_STATE =
           ["@hotwired/turbo-rails", "npm:7.3.0"],\
           ["@popperjs/core", "npm:2.11.8"],\
           ["autoprefixer", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:10.4.15"],\
-          ["bootstrap", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:5.3.1"],\
+          ["bootstrap", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:5.3.3"],\
           ["bootstrap-icons", "npm:1.10.5"],\
           ["esbuild", "npm:0.19.2"],\
           ["nodemon", "npm:3.0.1"],\
@@ -477,7 +477,7 @@ const RAW_RUNTIME_STATE =
           ["@hotwired/turbo-rails", "npm:7.3.0"],\
           ["@popperjs/core", "npm:2.11.8"],\
           ["autoprefixer", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:10.4.15"],\
-          ["bootstrap", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:5.3.1"],\
+          ["bootstrap", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:5.3.3"],\
           ["bootstrap-icons", "npm:1.10.5"],\
           ["esbuild", "npm:0.19.2"],\
           ["nodemon", "npm:3.0.1"],\
@@ -539,17 +539,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["bootstrap", [\
-      ["npm:5.3.1", {\
-        "packageLocation": "../../.yarn/berry/cache/bootstrap-npm-5.3.1-9ad45c2765-10c0.zip/node_modules/bootstrap/",\
+      ["npm:5.3.3", {\
+        "packageLocation": "../../.yarn/berry/cache/bootstrap-npm-5.3.3-da08e2f0fe-10c0.zip/node_modules/bootstrap/",\
         "packageDependencies": [\
-          ["bootstrap", "npm:5.3.1"]\
+          ["bootstrap", "npm:5.3.3"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:5.3.1", {\
-        "packageLocation": "./.yarn/__virtual__/bootstrap-virtual-59d2058f38/3/.yarn/berry/cache/bootstrap-npm-5.3.1-9ad45c2765-10c0.zip/node_modules/bootstrap/",\
+      ["virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:5.3.3", {\
+        "packageLocation": "./.yarn/__virtual__/bootstrap-virtual-083c0946a7/3/.yarn/berry/cache/bootstrap-npm-5.3.3-da08e2f0fe-10c0.zip/node_modules/bootstrap/",\
         "packageDependencies": [\
-          ["bootstrap", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:5.3.1"],\
+          ["bootstrap", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:5.3.3"],\
           ["@popperjs/core", "npm:2.11.8"],\
           ["@types/popperjs__core", null]\
         ],\
