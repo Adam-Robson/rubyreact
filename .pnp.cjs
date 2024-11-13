@@ -27,7 +27,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@hotwired/stimulus", "npm:3.2.2"],\
-          ["@hotwired/turbo-rails", "npm:7.3.0"],\
+          ["@hotwired/turbo-rails", "npm:8.0.12"],\
           ["@popperjs/core", "npm:2.11.8"],\
           ["autoprefixer", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:10.4.15"],\
           ["bootstrap", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:5.3.1"],\
@@ -253,20 +253,20 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@hotwired/turbo", [\
-      ["npm:7.3.0", {\
-        "packageLocation": "../../.yarn/berry/cache/@hotwired-turbo-npm-7.3.0-579167aa60-10c0.zip/node_modules/@hotwired/turbo/",\
+      ["npm:8.0.12", {\
+        "packageLocation": "../../.yarn/berry/cache/@hotwired-turbo-npm-8.0.12-1597e64269-10c0.zip/node_modules/@hotwired/turbo/",\
         "packageDependencies": [\
-          ["@hotwired/turbo", "npm:7.3.0"]\
+          ["@hotwired/turbo", "npm:8.0.12"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@hotwired/turbo-rails", [\
-      ["npm:7.3.0", {\
-        "packageLocation": "../../.yarn/berry/cache/@hotwired-turbo-rails-npm-7.3.0-e0a5879ade-10c0.zip/node_modules/@hotwired/turbo-rails/",\
+      ["npm:8.0.12", {\
+        "packageLocation": "../../.yarn/berry/cache/@hotwired-turbo-rails-npm-8.0.12-8a8674b4f6-10c0.zip/node_modules/@hotwired/turbo-rails/",\
         "packageDependencies": [\
-          ["@hotwired/turbo-rails", "npm:7.3.0"],\
-          ["@hotwired/turbo", "npm:7.3.0"],\
+          ["@hotwired/turbo-rails", "npm:8.0.12"],\
+          ["@hotwired/turbo", "npm:8.0.12"],\
           ["@rails/actioncable", "npm:7.0.7"]\
         ],\
         "linkType": "HARD"\
@@ -618,7 +618,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["app", "workspace:."],\
           ["@hotwired/stimulus", "npm:3.2.2"],\
-          ["@hotwired/turbo-rails", "npm:7.3.0"],\
+          ["@hotwired/turbo-rails", "npm:8.0.12"],\
           ["@popperjs/core", "npm:2.11.8"],\
           ["autoprefixer", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:10.4.15"],\
           ["bootstrap", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:5.3.1"],\
