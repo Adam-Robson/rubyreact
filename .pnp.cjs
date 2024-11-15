@@ -40,7 +40,7 @@ const RAW_RUNTIME_STATE =
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:18.3.1"],\
           ["react-router-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:6.28.0"],\
-          ["sass", "npm:1.80.7"]\
+          ["sass", "npm:1.81.0"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -631,7 +631,7 @@ const RAW_RUNTIME_STATE =
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:18.3.1"],\
           ["react-router-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:6.28.0"],\
-          ["sass", "npm:1.80.7"]\
+          ["sass", "npm:1.81.0"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -2297,10 +2297,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["sass", [\
-      ["npm:1.80.7", {\
-        "packageLocation": "../../.yarn/berry/cache/sass-npm-1.80.7-f3e7fc66fb-10c0.zip/node_modules/sass/",\
+      ["npm:1.81.0", {\
+        "packageLocation": "../../.yarn/berry/cache/sass-npm-1.81.0-42587b1ed8-10c0.zip/node_modules/sass/",\
         "packageDependencies": [\
-          ["sass", "npm:1.80.7"],\
+          ["sass", "npm:1.81.0"],\
           ["@parcel/watcher", "npm:2.5.0"],\
           ["chokidar", "npm:4.0.1"],\
           ["immutable", "npm:5.0.2"],\
