@@ -36,7 +36,7 @@ const RAW_RUNTIME_STATE =
           ["esbuild", "npm:0.24.1"],\
           ["nodemon", "npm:3.1.9"],\
           ["pg", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:8.13.1"],\
-          ["postcss", "npm:8.4.49"],\
+          ["postcss", "npm:8.5.1"],\
           ["postcss-cli", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:10.1.0"],\
           ["react", "npm:19.0.0"],\
           ["react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:19.0.0"],\
@@ -654,7 +654,7 @@ const RAW_RUNTIME_STATE =
           ["esbuild", "npm:0.24.1"],\
           ["nodemon", "npm:3.1.9"],\
           ["pg", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:8.13.1"],\
-          ["postcss", "npm:8.4.49"],\
+          ["postcss", "npm:8.5.1"],\
           ["postcss-cli", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:10.1.0"],\
           ["react", "npm:19.0.0"],\
           ["react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:19.0.0"],\
@@ -682,7 +682,7 @@ const RAW_RUNTIME_STATE =
           ["fraction.js", "npm:4.3.7"],\
           ["normalize-range", "npm:0.1.2"],\
           ["picocolors", "npm:1.1.1"],\
-          ["postcss", "npm:8.4.49"],\
+          ["postcss", "npm:8.5.1"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -1960,10 +1960,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["postcss", [\
-      ["npm:8.4.49", {\
-        "packageLocation": "../../.yarn/berry/cache/postcss-npm-8.4.49-1c13833dd1-10c0.zip/node_modules/postcss/",\
+      ["npm:8.5.1", {\
+        "packageLocation": "../../.yarn/berry/cache/postcss-npm-8.5.1-90fd898a99-10c0.zip/node_modules/postcss/",\
         "packageDependencies": [\
-          ["postcss", "npm:8.4.49"],\
+          ["postcss", "npm:8.5.1"],\
           ["nanoid", "npm:3.3.8"],\
           ["picocolors", "npm:1.1.1"],\
           ["source-map-js", "npm:1.2.1"]\
@@ -1990,7 +1990,7 @@ const RAW_RUNTIME_STATE =
           ["get-stdin", "npm:9.0.0"],\
           ["globby", "npm:13.2.2"],\
           ["picocolors", "npm:1.0.0"],\
-          ["postcss", "npm:8.4.49"],\
+          ["postcss", "npm:8.5.1"],\
           ["postcss-load-config", "virtual:552ed463c61b5833bb69573bed1a9f7efe6400c42f2999a5d5b8324554c26b30fc18d7d5a786e1e22a7fe89256b63077caf55ab44e20808f20995b46dfc4b4fe#npm:4.0.1"],\
           ["postcss-reporter", "virtual:552ed463c61b5833bb69573bed1a9f7efe6400c42f2999a5d5b8324554c26b30fc18d7d5a786e1e22a7fe89256b63077caf55ab44e20808f20995b46dfc4b4fe#npm:7.0.5"],\
           ["pretty-hrtime", "npm:1.0.3"],\
@@ -2020,7 +2020,7 @@ const RAW_RUNTIME_STATE =
           ["@types/postcss", null],\
           ["@types/ts-node", null],\
           ["lilconfig", "npm:2.1.0"],\
-          ["postcss", "npm:8.4.49"],\
+          ["postcss", "npm:8.5.1"],\
           ["ts-node", null],\
           ["yaml", "npm:2.3.1"]\
         ],\
@@ -2047,7 +2047,7 @@ const RAW_RUNTIME_STATE =
           ["postcss-reporter", "virtual:552ed463c61b5833bb69573bed1a9f7efe6400c42f2999a5d5b8324554c26b30fc18d7d5a786e1e22a7fe89256b63077caf55ab44e20808f20995b46dfc4b4fe#npm:7.0.5"],\
           ["@types/postcss", null],\
           ["picocolors", "npm:1.0.0"],\
-          ["postcss", "npm:8.4.49"],\
+          ["postcss", "npm:8.5.1"],\
           ["thenby", "npm:1.3.4"]\
         ],\
         "packagePeers": [\
